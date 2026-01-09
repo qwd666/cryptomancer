@@ -1,5 +1,8 @@
-# cryptomancer
+# cryptomancer [![CI](https://github.com/qwd666/cryptomancer/actions/workflows/ci.yml/badge.svg)](https://github.com/qwd666/cryptomancer/actions/workflows/ci.yml) [![Releases](https://img.shields.io/github/release/qwd666/cryptomancer.svg)](https://github.com/qwd666/cryptomancer/releases) [![License](https://img.shields.io/github/license/qwd666/cryptomancer.svg)](https://github.com/qwd666/cryptomancer/blob/master/LICENSE) [![API Documentation Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=API%20Documentation&up_message=Online&url=https://qwd666.github.io/cryptomancer)](https://qwd666.github.io/cryptomancer/)
 
+
+<div align="center">
+  <img src="cryptomancer-logo.svg" alt="cryptomancer logo" style="max-width: 100%"></div>
 A comprehensive cryptographic library for Crystal providing implementations of fundamental cryptographic algorithms following industry standards and RFC specifications.
 
 ## Overview
