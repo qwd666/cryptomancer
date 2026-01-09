@@ -1,0 +1,9 @@
+name: cryptomancer
+version: 0.1.0
+
+authors:
+  - Temirlan Narvsky <t.narvsky@gmail.com.com>
+
+crystal: '>= 1.18.2'
+
+license: MIT
